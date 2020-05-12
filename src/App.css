@@ -1,38 +1,126 @@
-.App {
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.fixed{
+  position: fixed;
+}
+
+/* Navbar */
+
+.navbar{
+  margin: 2px;
+  background-color: #fff;
+  border: 2px solid #000;
+  box-shadow: 3px 2px 5px #d3d3d3;
+}
+
+.nav-logo{
+  text-decoration: none;
+  border: 2px solid #000;
+  font-size: .8rem;
+  color: #000;
+  padding: 5px 10px;
+  margin-left: 15px;
+  font-weight: 700;
+}
+
+.right-menu{
+  float: right;
+  color: #000;
+  font-size: .8rem;
+  font-weight: 600;
+}
+
+/* Side bar */
+
+.side-bar{
+  flex: 5;
+  margin: 2px;
+  margin-top: 5px;
+  padding: 12px;
+  width: 200px;
+  height: calc(100vh - 14vh);
+  background-color: #fff;
+  border: 2px solid #000;
+  box-shadow: 3px 2px 5px #d3d3d3;
+}
+
+.side-bar-title, ul li{
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.side-bar-title{
+  margin: 8px auto;
+}
+
+.side-bar ul li{
+  list-style: none;
+  padding: 8px;
+}
+
+.side-bar ul hr{
+  width: 95%;
+  background-color: #000;
+  height: 2px;
+  box-shadow: 1px 1px 2px #d3d3d3;
+}
+
+
+/* Jobs Card */
+
+.card-list{
   text-align: center;
+  margin-left: 25px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card{
+  display: inline-block;
+  text-align: left;
+  margin: 8px;
+  width: 17rem;
+  overflow: hidden;
+  border: 2px solid #000;
+  border-radius: 17px;
+  padding: 15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text-small{
+  font-size: 12px;
+  font-weight: 600;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.job-tile, .comapny-details, .company-location{
+    font-size: 12px !important;
+    font-weight: 600;
 }
 
-.App-link {
-  color: #61dafb;
+.card-btn{
+  color: #000;
+  margin: 5px;
+  background-color: #fff;
+  border: 2px solid #000;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Side Panel */
+
+.side-panel{
+  float: right;
+  width: 4rem;
+  text-align: center;
+  margin: 2px;
+  margin-top: 5px;
+  margin-right: 0px;
+  padding: 12px;
+  height: calc(100vh - 20vh);
+  background-color: #fff;
+  border: 2px solid #000;
+  box-shadow: 3px 2px 5px #d3d3d3;
+}
+
+.angle-left{
+  margin-top: 270px;
 }
