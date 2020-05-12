@@ -18,11 +18,6 @@ function App() {
             <Row>
               <Col className="card-list">
                   <JobsCard />
-                  <JobsCard />
-                  <JobsCard />
-                  {/* <JobsCard />
-                  <JobsCard />
-                  <JobsCard /> */}
               </Col>
             </Row>
           </Col>

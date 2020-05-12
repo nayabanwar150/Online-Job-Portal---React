@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "jobTitle": "Web Developer",
+        "companyName": "Linup Pvt. Ltd. ",
+        "location": "Mumbai",
+        "views": 1326,
+        "experience": "2-4 yrs",
+        "jobType": "Full Time",
+        "candiates": "13 people",
+        "ctc": "5 - 6 lacs"
+    },
+    {
+        "id": 2,
+        "jobTitle": "PHP Developer",
+        "companyName": "Inviz.AI Pvt. Ltd. ",
+        "location": "Banglore",
+        "views": 578,
+        "experience": "0-4 yrs",
+        "jobType": "Full Time",
+        "candiates": "38 people",
+        "ctc": "9 - 12 lacs"
+    },
+    {
+        "id": 3,
+        "jobTitle": "Graphic Designer",
+        "companyName": "Garphic.INC Solution ",
+        "location": "New Delhi",
+        "views": 487,
+        "experience": "0-2 yrs",
+        "jobType": "Part Time",
+        "candiates": "29 people",
+        "ctc": "6 - 9 lacs"
+    },
+    {
+        "id": 4,
+        "jobTitle": "Full Stack Developer",
+        "companyName": "Company.INC Solution ",
+        "location": "Banglore",
+        "views": 1187,
+        "experience": "0-2 yrs",
+        "jobType": "Part Time",
+        "candiates": "55 people",
+        "ctc": "6 - 9 lacs"
+    },
+    {
+        "id": 5,
+        "jobTitle": "Web Developer",
+        "companyName": "Zenpact Solution ",
+        "location": "New Delhi",
+        "views": 968,
+        "experience": "0-3 yrs",
+        "jobType": "Part Time",
+        "candiates": "54 people",
+        "ctc": "12 - 15 lacs"
+    },
+    {
+        "id": 6,
+        "jobTitle": "Android Developer",
+        "companyName": "Garphic.INC Solution ",
+        "location": "Hyderabad",
+        "views": 487,
+        "experience": "0-2 yrs",
+        "jobType": "Part Time",
+        "candiates": "29 people",
+        "ctc": "6 - 9 lacs"
+    },
+    {
+        "id": 7,
+        "jobTitle": "Web Developer",
+        "companyName": "Zenpact Solution ",
+        "location": "New Delhi",
+        "views": 968,
+        "experience": "0-3 yrs",
+        "jobType": "Part Time",
+        "candiates": "54 people",
+        "ctc": "12 - 15 lacs"
+    },
+    {
+        "id": 8,
+        "jobTitle": "PHP Developer",
+        "companyName": "Inviz.AI Pvt. Ltd. ",
+        "location": "Banglore",
+        "views": 578,
+        "experience": "0-4 yrs",
+        "jobType": "Full Time",
+        "candiates": "38 people",
+        "ctc": "9 - 12 lacs"
+    },
+    {
+        "id": 9,
+        "jobTitle": "Web Developer",
+        "companyName": "Linup Pvt. Ltd. ",
+        "location": "Mumbai",
+        "views": 1326,
+        "experience": "2-4 yrs",
+        "jobType": "Full Time",
+        "candiates": "13 people",
+        "ctc": "5 - 6 lacs"
+    },
+    {
+        "id": 10,
+        "jobTitle": "Full Stack Developer",
+        "companyName": "Company.INC Solution ",
+        "location": "Banglore",
+        "views": 1187,
+        "experience": "0-2 yrs",
+        "jobType": "Part Time",
+        "candiates": "55 people",
+        "ctc": "6 - 9 lacs"
+    }
+
+]

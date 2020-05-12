@@ -74,7 +74,13 @@
 
 .card-list{
   text-align: center;
-  margin-left: 25px;
+  margin-left: 5px;
+  height: 80vh;
+  overflow-y: scroll;
+}
+
+.card-list::-webkit-scrollbar {
+  width:0px; 
 }
 
 .card{
@@ -93,9 +99,14 @@
   font-weight: 600;
 }
 
-.job-tile, .comapny-details, .company-location{
-    font-size: 12px !important;
+.comapny-name,.company-location{
+    font-size: 13px;
     font-weight: 600;
+}
+
+.job-title{
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .card-btn{
